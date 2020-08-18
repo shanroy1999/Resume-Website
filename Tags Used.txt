@@ -6,7 +6,6 @@ HTML tags used:
 <meta>
 <title>
 <link>
-<head>
 <body>
 <div>
 <section>
